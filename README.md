@@ -5,7 +5,7 @@ Downloads required:
 - download vagrant 2.2.6
 - download oracle vm virtualbox 6.0.14
 
-## running up
+## Running the App
 
 first go into the directory that contains the repo
 
@@ -30,7 +30,7 @@ in the command line run the following code to start running the app:
 npm start
 ```
 
-## Loading App
+## Loading the App
 
 - in web browser type http://development.local:3000/
 
