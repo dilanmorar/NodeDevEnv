@@ -9,23 +9,23 @@ Downloads required:
 
 first go into the directory that contains the repo
 
-in the command line run the following code to start running the virtual machine
+in the command line run the following code to start running the virtual machine:
 ```
 vagrant up
 ```
-in the command line run the following code to enter into the virtual machine
+in the command line run the following code to enter into the virtual machine:
 ```
 vagrant ssh
 ```
-in the command line run the following code to enter into the app file
+in the command line run the following code to enter into the app file:
 ```
 cd /app
 ```
-in the command line run the following code to install the npm (node packaging manager)
+in the command line run the following code to install the npm (node packaging manager):
 ```
 npm install
 ```
-in the command line run the following code to start running the app
+in the command line run the following code to start running the app:
 ```
 npm start
 ```
